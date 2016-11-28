@@ -25,7 +25,6 @@ namespace PartneredSolutionsIT\PDFMerger;
 
 use Exception;
 use FPDI;
-use FPDF;
 
 class PDFMerger
 {
